@@ -86,7 +86,7 @@ const Portfolio = () => {
     
     return (
         <div>
-            <div className="rounded-full m-4 p-2 bg-[linear-gradient(to_right,rgba(24,24,27,1.000),rgba(24,24,27,0)),url('http://localhost:3000/code.png')]">
+            <div className="rounded-full m-4 p-2 bg-[linear-gradient(to_right,rgba(24,24,27,1.000),rgba(24,24,27,0)),url('https://cristino4.github.io/20-react-portfolio/code.png')]">
                 <p className="px-4 text-2xl font-sans font-medium text-gray-100 dark:text-white ">Web Development</p>
             </div>
             {webProjects.map((project) => (
