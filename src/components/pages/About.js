@@ -11,8 +11,8 @@ const About = ({handlePageChange}) => {
                 <div className="hero-content flex-col lg:flex-row">
                     <img src="./rocket.jpg" className="max-w-sm rounded-lg shadow-2xl" alt='me and my sister' />
                     <div>
-                        <p className="text-5xl font-bold">Welcome!<br></br><br></br>I'm Cristino Castro.</p>
-                        <p className="py-6">I'm an electrical engineer, software developer, and musician from 
+                        <p className="font-sans text-5xl font-bold">Welcome!<br></br><br></br>I'm Cristino Castro.</p>
+                        <p className="font-sans py-6">I'm an electrical engineer, software developer, and musician from 
                         Hesperia, California (located just outside of Los Angeles). <br></br><br></br>
                         I was raised in a small family with my only sibling and sister Caroline (seen with me on the left). 
                         Since I was a kid, my sister and I have been facinated by science and engineering. I remember 
