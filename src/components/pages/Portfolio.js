@@ -67,7 +67,7 @@ const Portfolio = () => {
             techUsed: 'React/JSX/Tailwind/DaisyUI',
             description: 'My personal portfolio showcasing my web development, embedded programming, and electronics test validation projects',
             repoLink: 'https://github.com/cristino4/20-react-portfolio',
-            appLink: 'null',
+            appLink: 'https://cristino4.github.io/20-react-portfolio/',
             image: './portfolio.png'
         }
     ];
